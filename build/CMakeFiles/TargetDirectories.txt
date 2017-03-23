@@ -1,0 +1,3 @@
+/home/limy/myVO/build/src/CMakeFiles/DetectFeatures.dir
+/home/limy/myVO/build/src/CMakeFiles/main.dir
+/home/limy/myVO/build/src/CMakeFiles/slambase.dir
